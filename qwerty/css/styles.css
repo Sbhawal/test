@@ -1,0 +1,20 @@
+    .carousel {
+  height: 500px;
+}
+.carousel-inner {
+  height: 100%;
+}
+
+.carousel-1 {
+  height: 100%;
+  background: url(../images/carousel1.jpg)  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.carousel-2 {
+  height: 100%;
+  background: url(../images/carousel2.jpg)  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
